@@ -8,6 +8,7 @@ The usual procedure is pretty standard for statistical tests:
 $$
 Z = \frac{\hat \mu - \mu_0}{\sigma_0 / \sqrt n}
 $$
+
 Where 
 
 $$
