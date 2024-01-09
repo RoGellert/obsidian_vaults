@@ -3,7 +3,7 @@ We assume that null hypothesis is a given a proportion known a priori
 
 The usual procedure is pretty standard for statistical tests:
 - Define null and alternative hypothesis
-- Calculate Z score under H0:
+- Calculate Z score under H0 :
 $$
 Z = \frac{\hat \mu - \mu_0}{\sigma_0 / \sqrt n}
 $$
