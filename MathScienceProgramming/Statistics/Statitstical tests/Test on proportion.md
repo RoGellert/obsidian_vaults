@@ -4,10 +4,12 @@ We assume that null hypothesis is a given a proportion known a priori
 The usual procedure is pretty standard for statistical tests:
 - Define null and alternative hypothesis
 - Calculate Z score under H0 :
+
 $$
 Z = \frac{\hat \mu - \mu_0}{\sigma_0 / \sqrt n}
 $$
 Where 
+
 $$
  \mu_0 - known\ proportion , \ \hat \mu - sample \ proportion, \ \hat \sigma - sample \ standard \ deviation, \ n - sample size
 $$
@@ -17,7 +19,6 @@ $$
 ### Important
 
 Variance of binominal distribution :
-
 
 $$
 \sigma ^ 2 = p(1-p)
