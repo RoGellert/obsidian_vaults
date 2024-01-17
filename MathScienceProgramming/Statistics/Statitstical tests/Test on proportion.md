@@ -17,7 +17,7 @@ $$
 
 - Find p-value depending of type of hypothesis and intepret it
 
-### Important
+### Important :
 
 Variance of binominal distribution :
 
