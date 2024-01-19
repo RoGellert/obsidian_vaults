@@ -15,7 +15,7 @@ $$
  \mu_0 - known\ proportion , \ \hat \mu - sample \ proportion, \ \hat \sigma - sample \ standard \ deviation, \ n - sample \ size
 $$
 
-- Find p-value depending of type of hypothesis and intepret it
+- Find p-value depending of type of hypothesis and interpret it
 
 ### Important :
 

@@ -4,7 +4,15 @@ Rust's package manager
 
 ---
 
-__Initialize a project__: #init_a_project
+Help with commands:
+
+```cli
+cargo help
+```
+
+---
+
+__Initialize a project__:
 
 ```cli
 cargo new project_name
@@ -12,7 +20,7 @@ cargo new project_name
 
 ---
 
-__Compile and run - from the project repository__: #compile_and_run
+__Compile and run - from the project repository__:
 
 ```cli
 cargo run
@@ -22,7 +30,7 @@ cargo run
 
 ---
 
-__Create a release folder with executable without debugging__: #create_a_release_executable
+__Create a release folder with executable without debugging__:
 
 ```cli
 cargo run --release
